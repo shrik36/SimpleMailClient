@@ -1,0 +1,11 @@
+C:\Users\SS\Documents\Visual Studio 2017\Projects\Simple Mail Client\Simple Mail Client\bin\Debug\Simple Mail Client.exe.config
+C:\Users\SS\Documents\Visual Studio 2017\Projects\Simple Mail Client\Simple Mail Client\bin\Debug\Simple Mail Client.exe
+C:\Users\SS\Documents\Visual Studio 2017\Projects\Simple Mail Client\Simple Mail Client\bin\Debug\Simple Mail Client.pdb
+C:\Users\SS\Documents\Visual Studio 2017\Projects\Simple Mail Client\Simple Mail Client\bin\Debug\System.Net.Http.dll
+C:\Users\SS\Documents\Visual Studio 2017\Projects\Simple Mail Client\Simple Mail Client\bin\Debug\System.Net.Http.xml
+C:\Users\SS\Documents\Visual Studio 2017\Projects\Simple Mail Client\Simple Mail Client\obj\Debug\Simple_Mail_Client.frmMain.resources
+C:\Users\SS\Documents\Visual Studio 2017\Projects\Simple Mail Client\Simple Mail Client\obj\Debug\Simple_Mail_Client.Properties.Resources.resources
+C:\Users\SS\Documents\Visual Studio 2017\Projects\Simple Mail Client\Simple Mail Client\obj\Debug\Simple Mail Client.csproj.GenerateResource.Cache
+C:\Users\SS\Documents\Visual Studio 2017\Projects\Simple Mail Client\Simple Mail Client\obj\Debug\Simple Mail Client.csproj.CoreCompileInputs.cache
+C:\Users\SS\Documents\Visual Studio 2017\Projects\Simple Mail Client\Simple Mail Client\obj\Debug\Simple Mail Client.exe
+C:\Users\SS\Documents\Visual Studio 2017\Projects\Simple Mail Client\Simple Mail Client\obj\Debug\Simple Mail Client.pdb
